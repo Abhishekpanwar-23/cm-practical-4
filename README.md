@@ -1,4 +1,5 @@
 It is a practice file
-changing the feature branch from github only
-this change is done using github 
-github is a microsoft based product
+this is the file changed in main branch
+this will create a conflict 
+conflict may cause some errors
+thsi isa a extra line 
